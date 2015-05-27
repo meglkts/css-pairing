@@ -1,0 +1,51 @@
+*{
+  color:#000080;
+}
+a:visited{
+  color:#ff0000;
+}
+html{
+  background:#ffffff;
+}
+li{
+  display: inline-block;
+  width:45%;
+  margin:10px;
+  font-size: 0.5em;
+  line-break:auto;
+}
+
+li a{
+color:#800080;
+font-size:1.85em;
+display:block;
+}
+a:link{
+ color:#800080;
+}
+header{
+  font-weight: bold;
+  font-size:1.5em;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+strong{
+  font-size: 1.6em;
+}
+#geico{
+  text-align: center;
+  font-size: .75em;
+  border-top:1px solid black;
+  border-bottom: 1px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px
+  }
+
+  #comments{
+  border-bottom: 1px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px
+  }
+  footer{
+    font-size: 10px
+  }
